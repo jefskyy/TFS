@@ -1,0 +1,1 @@
+HTML files can be rendered in any internet browser and manually edited in a text editor like notepad. You are also welcome to develop these programs more using gen AI tools. I consider these programs open-access, so you are free to share them (and their accuracy disclaimers) beyond our classroom.
