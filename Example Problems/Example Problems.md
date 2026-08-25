@@ -1,0 +1,1 @@
+Thermal-fluid problems in professional engineering are typically solved using computational tools rather than entirely by hand. Using MATLAB, Python, or Excel allows us to tackle more applied problems while focusing on engineering judgment (modeling, assumptions, analysis, and evaluation), rather than repetitive calculations. Coding itself is not the goal of this course.
